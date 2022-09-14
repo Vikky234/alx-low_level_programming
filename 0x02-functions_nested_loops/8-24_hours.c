@@ -18,7 +18,7 @@ void jack_bauer(void)
 		_putchar('\n');
 
 		d++;
-		if (d > 0)
+		if (d > 9)
 		{
 			d = 0;
 			c++;
