@@ -4,7 +4,7 @@
  * rev_string - function that reverse a string
  * @a: char array string type
  */
-void rev-string(char *s)
+void rev_string(char *s)
 {
 	int i, c, 1;
 	char h;
