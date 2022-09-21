@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * leet - encode a string into 1337
  * @s: string
@@ -31,6 +32,7 @@ char *leet(char *s)
 			s[i] = '1';
 		}
 	}
+	
 	return (s);
 }
 
