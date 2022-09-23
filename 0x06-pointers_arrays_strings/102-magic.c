@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/**
+ * magic - input
+ * Description: a code that prints a[2] = 98, followed by a new line
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
