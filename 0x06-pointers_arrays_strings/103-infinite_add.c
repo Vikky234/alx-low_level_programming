@@ -6,7 +6,6 @@
  * @n2: Second number
  * @r: result buffer
  * @size_r: result buffer size
- * 
  * Return: 0 if the result can not be stored in r,
  * otherwise a pointer to the result
  */
