@@ -17,7 +17,7 @@ int is_palindrome(char *s)
 int pali(char *s, char *e)
 {
 	if (*s != *e)
-		return (0)
+		return (0);
 	else if (s >= e)
 		return (1);
 	else
