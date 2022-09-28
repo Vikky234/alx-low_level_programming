@@ -3,6 +3,7 @@
 /**
  * a function that returns the factorial of a given number
  * Desciption:if n is lower than 0, the function should return -1 to indicate an error
+ * @n: number
  * Return : 0
  */
 int factorial(int n);
