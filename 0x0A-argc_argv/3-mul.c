@@ -36,6 +36,7 @@ int _atoi(char *s)
 {
 	int size = 0, i, j, sign = 1;
 	int number = 0;
+
 	size = _strlen_recursion(s);
 
 	for (i = 0; i < size; i++)
