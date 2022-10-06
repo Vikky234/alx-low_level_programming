@@ -74,7 +74,6 @@ int _atoi(char *s)
 			int pow = 1;
 
 			j = i;
-
 			while (s[j] >= 48 && s[j] <= 57)
 			{
 				j++;
