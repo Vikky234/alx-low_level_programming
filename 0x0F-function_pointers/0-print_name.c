@@ -6,7 +6,7 @@
  * @f: pointer to func
  * Return: void
  */
-void print_name(char *name, void (*f)(char *));
+void print_name(char *name, void (*f)(char *))
 {
 	if (!f)
 		return;
